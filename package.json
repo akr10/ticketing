@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express-validator": "^7.1.0",
+    "mongoose-update-if-current": "^1.4.0",
+    "next": "^13.5.6",
+    "promisify": "^0.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "name": "ticketing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
